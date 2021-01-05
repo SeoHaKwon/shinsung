@@ -24,7 +24,7 @@
   "dependencies": {
     "@inotom/vue-go-top": "^1.2.0",
     "@vue/cli": "^4.1.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "core-js": "^2.6.11",
     "lodash": "^4.17.15",
     "vue": "^2.6.11",
